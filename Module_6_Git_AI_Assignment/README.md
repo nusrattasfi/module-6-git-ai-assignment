@@ -1,14 +1,18 @@
 # Module 6 Assignment
+
 ## Version Control with Git & AI Workflows
 
 ### Student
-- Name: __________________
-- ID/Roll: __________________
-- Course: __________________
+
+- Name: **\*\*\*\***\_\_**\*\*\*\***
+- ID/Roll: **\*\*\*\***\_\_**\*\*\*\***
+- Course: **\*\*\*\***\_\_**\*\*\*\***
 - Module: Module 6
 
 ## Objective
+
 This assignment demonstrates:
+
 1. Basic version control using Git.
 2. Creating commits and branches.
 3. Connecting a local project with GitHub.
@@ -17,6 +21,7 @@ This assignment demonstrates:
 6. Using AI tools responsibly in a software development workflow.
 
 ## Project Structure
+
 ```text
 Module_6_Git_AI_Assignment/
 ├── README.md
@@ -27,6 +32,7 @@ Module_6_Git_AI_Assignment/
 ```
 
 ## Git Workflow Used
+
 ```text
 Create Project
      ↓
@@ -52,4 +58,9 @@ Merge
 ```
 
 ## Conclusion
-Git provides a safe and organized way to track changes, work with branches, and collaborate through GitHub. AI tools can support coding, debugging, documentation, and learning, but the developer should review and test AI-generated output before using it.
+
+Git provides a safe and organized way to track changes, work with branches, and
+collaborate through GitHub. AI tools can support coding, debugging,
+documentation, and learning, but the developer should review and test
+AI-generated output before using it. This project demonstrates Git version
+control, GitHub collaboration, and responsible AI-assisted software development.
